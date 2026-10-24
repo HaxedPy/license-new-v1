@@ -1,0 +1,32 @@
+{
+  "status": "active",
+  "message": "NEW VERSION! NEW MORE TO COME!",
+  "valid_keys": {
+    "TRIAL-BOULIZ-V1": {"duration": 10800},
+    "LICENSE-1DAY-SNAME-BULIZ": {"duration": 86400, "max_uses": 1},
+    "LICENSE-1DAY-QST13-SL0VR": {"duration": 86400, "max_uses": 1},
+    "LICENSE-1DAY-MNI0Q-VDUAQ": {"duration": 86400, "max_uses": 1},
+    "LICENSE-1DAY-SRYAQ-BU0BE": {"duration": 86400, "max_uses": 1},
+    "LICENSE-1DAY-BALOQ-BU291": {"duration": 86400, "max_uses": 1},
+    "LICENSE-2DAYS-SPOL21-BUSAZ": {"duration": 172800, "max_uses": 1},
+    "ZEWX-3DAYS-MONA3-BSA0S": {"duration": 259200, "max_uses": 1},
+    "LICENSE-3DAYS-BANUW-BLZAS": {"duration": 259200, "max_uses": 1},
+    "LICENSE-3DAYS-BVBSA-BDSAJ": {"duration": 259200, "max_uses": 1},
+    "LICENSE-3DAYS-HDSAG-ASDAS": {"duration": 259200, "max_uses": 1},
+    "LICENSE-3DAYS-ADEGF-FSDAS": {"duration": 259200, "max_uses": 1},
+    "LICENSE-3DAYS-QWYTD-GHDFD": {"duration": 259200, "max_uses": 1},
+    "LICENSE-1WEEK-ADWJQ-DKWAA": {"duration": 604800, "max_uses": 1},
+    "LICENSE-1WEEK-DAWIW-LONAS": {"duration": 604800, "max_uses": 1},
+    "BOULIZ-1WEEK-VBANS-CXGAW": {"duration": 604800, "max_uses": 1},
+    "BOULIZ-1WEEK-MZGQP-BVIIO": {"duration": 604800, "max_uses": 1},
+    "BOULIZ-1WEEK-BLZOA-DS2PO": {"duration": 604800, "max_uses": 1},
+    "BOULIZ-30DAYS-BSAOQ-DBASW": {"duration": 2592000, "max_uses": 1},
+    "BOULIZ-30DAYS-KOPAQ-HSUQA": {"duration": 2592000, "max_uses": 1},
+    "BOULIZ-30DAYS-MHAIA-KQOAQ": {"duration": 2592000, "max_uses": 1},
+    "BOULIZ-30DAYS-JASQL-BUWOQ": {"duration": 2592000, "max_uses": 1},
+    "BOULIZ-30DAYS-21MWK-KWQ19": {"duration": 2592000, "max_uses": 1},
+    "LICENSE-LIFETIME-NBA81S": {"duration": 0, "max_uses": 1},
+    "LICENSE-LIFETIME-MKOPA": {"duration": 0, "max_uses": 1},
+    "LICENSE-LIFETIME-BUYD3": {"duration": 0, "max_uses": 1}
+  }
+}
