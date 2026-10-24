@@ -2,7 +2,7 @@
   "status": "active",
   "message": "NEW VERSION! NEW MORE TO COME!",
   "valid_keys": {
-    "TRIAL-BOULIZ-V1": {"duration": 10800},
+    "TRIAL": {"duration": 300},
     "LICENSE-1DAY-SNAME-BULIZ": {"duration": 86400, "max_uses": 1},
     "LICENSE-1DAY-QST13-SL0VR": {"duration": 86400, "max_uses": 1},
     "LICENSE-1DAY-MNI0Q-VDUAQ": {"duration": 86400, "max_uses": 1},
