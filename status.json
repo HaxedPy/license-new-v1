@@ -1,6 +1,6 @@
 {
-  "status": "active",
-  "message": "NEW VERSION! NEW MORE TO COME!",
+  "status": "disabled",
+  "message": "Contact @Bouliizz",
   "valid_keys": {
     "TRIAL": {"duration": 300},
     "LICENSE-1DAY-SNAME-BULIZ": {"duration": 86400, "max_uses": 1},
