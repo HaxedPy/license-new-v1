@@ -1,6 +1,6 @@
 {
   "status": "active",
-  "message": "Server Is Online! Bouliz Is Adding More Codes!",
+  "message": "Server Is Online!",
   "valid_keys": {
     "BOULIZ-TRIAL": {"duration": 86400},
     "BOULIZ-3DAYS-NOP20-MILO1": {"duration": 259200, "max_uses": 1},
