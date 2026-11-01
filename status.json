@@ -3,7 +3,25 @@
   "message": "Server Is Online! Bouliz Is Adding More Codes!",
   "valid_keys": {
     "BOULIZ-TRIAL": {"duration": 86400},
-    "BOULIZ-adsdsWQAWDSADW": {"duration": 86400},
+    "BOULIZ-3DAYS-NOP20-MILO1": {"duration": 259200, "max_uses": 1},
+    "BOULIZ-3DAYS-NLOK2-MISA1": {"duration": 259200, "max_uses": 1},
+    "BOULIZ-3DAYS-SH6A8-BJI54": {"duration": 259200, "max_uses": 1},
+    "BOULIZ-3DAYS-MVSU8-WEQT5": {"duration": 259200, "max_uses": 1},
+    "BOULIZ-3DAYS-SLKAO-DF64D": {"duration": 259200, "max_uses": 1},
+    "BOULIZ-7DAYS-JBUSOA-VIKS4D": {"duration": 604800, "max_uses": 1},
+    "BOULIZ-7DAYS-SQGSAO-DFGD1D": {"duration": 604800, "max_uses": 1},
+    "BOULIZ-7DAYS-LJFHJ9-5H96AS": {"duration": 604800, "max_uses": 1},
+    "BOULIZ-7DAYS-IJS6AS-NBZI9Q": {"duration": 604800, "max_uses": 1},
+    "BOULIZ-7DAYS-SDI5OP-QLKA23": {"duration": 604800, "max_uses": 1},
+    "BOULIZ-1MONTH-LOPAS92-NOA4D5S": {"duration": 2592000, "max_uses": 1},
+    "BOULIZ-1MONTH-DJQOE32-RYIKA5D": {"duration": 2592000, "max_uses": 1},
+    "BOULIZ-1MONTH-SHI52OP-QLKA23D": {"duration": 2592000, "max_uses": 1},
+    "BOULIZ-1MONTH-HSKLA9W-2DHQQ3G": {"duration": 2592000, "max_uses": 1},
+    "BOULIZ-1MONTH-DWSP252-QL33DQ3": {"duration": 2592000, "max_uses": 1},
+    "BOULIZ-BLZLIFE-FBFKWJ33923-KDAJOWP": {"duration": 0, "max_uses": 1},
+    "BOULIZ-BLZLIFE-DASJWQ15236-DWDAWFG": {"duration": 0, "max_uses": 1},
+    "BOULIZ-BLZLIFE-WD5WQOQI193-DWAW15W": {"duration": 0, "max_uses": 1},
+    "BOULIZ-BLZLIFE-DSADWF3WDQU-SDA9WWE": {"duration": 0, "max_uses": 1},
     "LICENSE-LIFE-258L-1569-213S": {"duration": 0, "max_uses": 1}
   }
 }
